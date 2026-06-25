@@ -78,7 +78,7 @@ function App() {
 
       await fetch(
 
-        `$ {API_URL}/attendance`,
+        `${API_URL}/attendance`,
 
         {
 
